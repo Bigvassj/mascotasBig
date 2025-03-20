@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "RecervacionCitas",
+    "slug": "RecervacionCitas",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/b.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/b.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/b.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/b.png"
+    }
+  }
+}
